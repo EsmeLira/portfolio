@@ -4,7 +4,7 @@
 Currently pursuing an associates degree, I am eager to secure an internship to enhance my skills and knowledge in the field. I am excited to apply my creativity and technical acumen to contribute meaningfully to projects and further my career in computer programming.  
 
 ### Education
-Computer programming, AAS (incomplete)
+Computer programming, AAS
 - Oject-oriented Programming
 - Full-Stack Web Development
 - IT Systems Support
