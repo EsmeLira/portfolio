@@ -1,4 +1,4 @@
-# Entry level programmer / Data scientist
+# Entry level Programmer / Data scientist
 
 ### About
 Currently pursuing an associates degree, I am eager to secure an internship to enhance my skills and knowledge in the field. I am excited to apply my creativity and technical acumen to contribute meaningfully to projects and further my career in computer programming.  
