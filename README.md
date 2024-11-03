@@ -34,14 +34,12 @@ Sales Associate @ AT&T / Cricket
 - Replace iPhone/Samsung screens and batteries
 
 ### Projects
-WildGear
-- website and app tailored to outdoor accessories
-[WildGear Website](https://www.figma.com/proto/liLylc0RBDdImSePqJxxYK/website-High-Fidelity-wireframes?node-id=1-2&node-type=canvas&t=xmIFAtfC28V2cJwD-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
-[Wildgear App](https://www.figma.com/proto/ZSPOfqdYuVtLAujt3XVqLv/WildGear-App-Wireframes?t=IdecP1XHXmCWw7d7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=11-1502&starting-point-node-id=1%3A2)
+WildGear, website and app tailored to outdoor accessories
+- [WildGear Website](https://www.figma.com/proto/liLylc0RBDdImSePqJxxYK/website-High-Fidelity-wireframes?node-id=1-2&node-type=canvas&t=xmIFAtfC28V2cJwD-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+- [Wildgear App](https://www.figma.com/proto/ZSPOfqdYuVtLAujt3XVqLv/WildGear-App-Wireframes?t=IdecP1XHXmCWw7d7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=11-1502&starting-point-node-id=1%3A2)
 
-Art Muse
-- app tailored to learning about art and art history
-[Art Muse App](https://www.figma.com/proto/ZSPOfqdYuVtLAujt3XVqLv/WildGear-App-Wireframes?t=IdecP1XHXmCWw7d7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=11-1502&starting-point-node-id=1%3A2)
+Art Muse, app tailored to learning about art and art history
+- [Art Muse App](https://www.figma.com/proto/ZSPOfqdYuVtLAujt3XVqLv/WildGear-App-Wireframes?t=IdecP1XHXmCWw7d7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=11-1502&starting-point-node-id=1%3A2)
 
 ### Certifications 
 - C++ programming, Occupational Skills Award
