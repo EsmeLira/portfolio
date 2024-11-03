@@ -41,6 +41,6 @@ Art Muse
 - app tailored to learning about art and art history
 
 ### Certifications 
--C++ programming, Occupational Skills Award
--Web Programming, Ocupational Skills Award
--Google UX Design cerification, Coursera
+- C++ programming, Occupational Skills Award
+- Web Programming, Ocupational Skills Award
+- Google UX Design cerification, Coursera
